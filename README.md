@@ -22,7 +22,7 @@ pod 'TagListView'
 
 ## Author
 
-linox, josen.aceleracao@wizsolucoes.com.br
+linox, linox@me.com
 
 ## License
 

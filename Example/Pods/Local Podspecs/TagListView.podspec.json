@@ -1,0 +1,22 @@
+{
+  "name": "TagListView",
+  "version": "0.1.0",
+  "summary": "A short description of TagListView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/linox/TagListView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linox": "josen.aceleracao@wizsolucoes.com.br"
+  },
+  "source": {
+    "git": "https://github.com/linox/TagListView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TagListView/Classes/**/*"
+}
